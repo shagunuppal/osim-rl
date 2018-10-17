@@ -146,7 +146,7 @@ Additional rules:
 * [Citing and credits](http://osim-rl.stanford.edu/docs/credits/)
 * [OpenSim documentation](http://opensim.stanford.edu/)
 
-## Contributions of participants
+## Contributions of Participants
 
 * [Understanding the Challenge](https://www.endtoend.ai/blog/ai-for-prosthetics-1) - Great materials from [@seungjaeryanlee](https://github.com/seungjaeryanlee/) on how to start
 
